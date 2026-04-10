@@ -1,0 +1,7 @@
+What is AWS?
+Amazon Web Services (AWS) is a comprehensive cloud computing platform provided by Amazon that offers scalable, reliable, and cost-effective IT infrastructure over the internet.
+
+Instead of purchasing physical servers, organizations can use AWS services such as computing power, storage, databases, networking, analytics, security, machine learning, and application deployment — all on demand.
+
+AWS follows a Pay-As-You-Go pricing model, meaning users pay only for the resources they use.
+![global infrastructure](https://github.com/user-attachments/assets/03bc20c6-c986-42e9-8eeb-007670d02774)
