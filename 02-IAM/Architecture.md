@@ -20,6 +20,7 @@ Users        Groups         Roles
  └────────── Policies ──────────┘
                │
         AWS Resources
+```
 
 <img width="2175" height="1333" alt="a1" src="https://github.com/user-attachments/assets/12a89ba1-2a86-4638-b5cd-18040ac3ec4b" />
 
@@ -108,18 +109,21 @@ Policies are JSON documents that specify:
 
 **Example Policy:**
 
-```json id="e7ks0m"
+```json
 {
   "Effect": "Allow",
   "Action": "ec2:StartInstances",
   "Resource": "*"
 }
+```
 
 Policies can be attached to:
 
-Users
-Groups
-Roles
+- Users  
+- Groups  
+- Roles  
+
+---
 
 ### 6. AWS Resources
 
