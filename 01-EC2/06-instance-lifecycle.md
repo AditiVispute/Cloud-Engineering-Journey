@@ -14,6 +14,7 @@ Understanding lifecycle states helps you:
 
 ## 🖼️ EC2 Instance Lifecycle Diagram
 
+![cycle 1](https://github.com/user-attachments/assets/92da3981-31ec-4e7f-81f1-672dbf4d3ea4)
 
 ---
 
