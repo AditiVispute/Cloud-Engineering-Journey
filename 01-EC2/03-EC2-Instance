@@ -21,7 +21,7 @@ An EC2 instance behaves like a real computer and includes:
 
 ## 🖼️ EC2 Instance Concept Diagram
 
-<img src="https://github.com/user-attachments/assets/97778e9e-5faa-47e8-a471-f9b0fc580dde" width="800"/>
+
 
 ---
 
@@ -40,7 +40,7 @@ When a user launches an EC2 instance:
 
 ## 🏗️ EC2 Instance Architecture Diagram
 
-<img src="https://github.com/user-attachments/assets/fef21ef7-860e-4c65-aed4-faceb216dd26" width="600"/>
+
 
 ---
 
